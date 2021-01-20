@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name":"Rohan Gandhi",
+    "occupation":"Software Developer",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "email": "rohangandhi109@gmail.com",
+    "address":{
+      "city":"Gainesville",
+      "state":"Florida",
+      "zip": "32608"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"Resume.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/rohangandhi109",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rohan-gandhi-739a62115/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"Gmail",
+        "url":"mailto:rohangandhi109@gmail.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "skills" :[
+      {
+        "name":"Java"
+      }, 
+      {
+        "name":"Python"
+      }, 
+      {
+        "name":"JavaScript"
+      } ,
+      {
+        "name":"SQL"
+      }
+      ],
+    "education":[
+      {
+        "school":"University of Florida",
+        "degree":"Master's in Computer Science",
+        "graduated":"Aug 2019 - Present",
+        "description":"Analysis of Algorithms, Advanced Data Structures, Distributed Operating Systems, Block chain optimization and applications, Mobile Networking, Fundamentals of Machine Learning, Computer Networks, Software Engineering, Networking Data Streaming"
+      },
+      {
+        "school":"MITCOE, Pune University",
+        "degree":"bachelor's in Information Technology",
+        "graduated":"Aug 2014 - Jun 2018"
+      }
+    ],
+    "work":[
+      {
+        "company":"Accenture, India",
+        "title":"Associate Software Engineer",
+        "years":"Nov 2018 - Jul 2019",
+        "description":"Completed the fundamental Training in Java, SQL, HTML and SAP Basis Administration. Testing and verifying the background jobs in the database are running smoothly. Worked on enhancement and robustness of these background jobs."
+      }
+    ]    
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Bug Tracker",
+        "category":"Python-Flask, Postgresql, HTML-jinja",
+        "image":"bug-tracker.png",
+        "url":"https://bugtracker109-stage.herokuapp.com/",
+        "github_url":"https://github.com/rohangandhi109/bugTracker"
+      },
+      {
+        "title":"E-commerce Website",
+        "category":"JavaScript, Mongodb, HTML-ejs",
+        "image":"e-commerce.png",
+        "url":"https://e-commerce109.herokuapp.com/",
+        "github_url":"https://github.com/rohangandhi109/e_commerce"
+      },
+      {
+        "title":"Trivia API",
+        "category":"Python-Flask, ReactJS, Postgresql, Auth0",
+        "image":"trivia-api.png",
+        "github_url":"https://github.com/rohangandhi109/TriviaAPI"
+      },
+      {
+        "title":"Handwritten Digits recognition",
+        "category":"Python, CNN, TenserFlow, Keras",
+        "image":"hand-digit.png",
+        "github_url":"https://github.com/rohangandhi109/Handwritten-digit-recognition"
+      },
+      {
+        "title":"P2P File Sharing",
+        "category":"Java, Socket",
+        "image":"ptop.png",
+        "github_url":"https://github.com/rohangandhi109/p2pFileShare"
+      },
+      {
+        "title":"Data Deduplication on Cloud",
+        "category":"Java, NetBeans, AWS-EC2, S3",
+        "image":"data-dedup.png",
+        "github_url":"https://github.com/rohangandhi109/Data-Deduplication-on-cloud-Storage"
+      },
+      {
+        "title":"Tapestry Algorithm",
+        "category":"Elixir",
+        "image":"hand-digit.png",
+        "github_url":"https://github.com/rohangandhi109/TapestryAlgorithm"
+      },
+      {
+        "title":"Twitter simulator",
+        "category":"Elixir",
+        "image":"hand-digit.png",
+        "github_url":"https://github.com/rohangandhi109/TwitterSimulator"
+      }
+    ]
+  }
+}
