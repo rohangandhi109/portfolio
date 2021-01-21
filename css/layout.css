@@ -370,6 +370,10 @@ ul#nav li.current a { color: #F06000; }
    opacity: 0.1;
 }
 
+#portfolio .img-size{
+   width: 300px;
+   height: 250px;
+}
 
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
@@ -391,10 +395,6 @@ ul#nav li.current a { color: #F06000; }
    cursor: pointer;
 }
 
-#portfolio .img-size{
-   width: 300px;
-   height: 250px;
-}
 
 #portfolio .title{
    color: #413d3d;
