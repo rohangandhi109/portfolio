@@ -220,6 +220,11 @@ ul#nav li.current a { color: #F06000; }
    width: 58.33333%;
    padding-top: 6px;
 }
+
+#about .text-white{
+   color:#fff;
+}
+
 #about .main-col { padding-right: 5%; }
 #about  .button {
    margin-top: 6px;
