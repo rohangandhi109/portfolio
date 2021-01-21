@@ -111,13 +111,13 @@
       {
         "title":"Tapestry Algorithm",
         "category":"Elixir",
-        "image":"hand-digit.png",
+        "image":"tap-algo.png",
         "github_url":"https://github.com/rohangandhi109/TapestryAlgorithm"
       },
       {
         "title":"Twitter simulator",
         "category":"Elixir",
-        "image":"hand-digit.png",
+        "image":"twitter-sim.png",
         "github_url":"https://github.com/rohangandhi109/TwitterSimulator"
       }
     ]
