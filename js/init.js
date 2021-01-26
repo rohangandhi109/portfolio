@@ -136,7 +136,7 @@
 /*----------------------------------------------------*/
 /*	contact form
 ------------------------------------------------------*/
-
+// https://stackoverflow.com/questions/28289898/how-to-make-the-ajax-contact-form-actually-send-mail
    $('form#contactForm button.submit').click(function() {
 
       $('#image-loader').fadeIn();
